@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PepeGASM ($PGASM)</title>
+  <style>
+    body {
+      margin: 0;
+      background: linear-gradient(to bottom, #1a1a1a, #0d0d0d);
+      color: #f2f2f2;
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      text-align: center;
+      padding: 2rem;
+    }
+
+    h1 {
+      font-size: 3rem;
+      color: #ff69b4;
+      text-shadow: 2px 2px #000;
+    }
+
+    .logo {
+      width: 220px;
+      border-radius: 9999px;
+      box-shadow: 0 0 30px #ff69b4;
+      animation: shake 0.5s infinite;
+      display: block;
+      margin: 0 auto 1rem auto;
+    }
+
+    @keyframes shake {
+      0% { transform: translate(0px, 0px) rotate(0deg); }
+      20% { transform: translate(-2px, 2px) rotate(-1deg); }
+      40% { transform: translate(2px, -2px) rotate(1deg); }
+      60% { transform: translate(-2px, 1px) rotate(0deg); }
+      80% { transform: translate(2px, 2px) rotate(1deg); }
+      100% { transform: translate(0px, 0px) rotate(-1deg); }
+    }
+
+    .section {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1.5rem;
+      background-color: #222;
+      border-radius: 20px;
+      box-shadow: 0 0 15px #0ff;
+    }
+
+    .tagline {
+      font-size: 1.5rem;
+      margin-top: 1rem;
+      color: #0ff;
+    }
+
+    footer {
+      margin-top: 4rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Логотип с Postimg -->
+  <a href="https://postimg.cc/gX1M90JT" target="_blank">
+    <img src="https://i.postimg.cc/fyR19thD/Pepe.png" border="0" alt="Pepe" class="logo" />
+  </a>
+
+  <h1>PepeGASM ($PGASM)</h1>
+  <p class="tagline">"When the meme hits just right."</p>
+
+  <div class="section">
+    <h2>About</h2>
+    <p>
+      PepeGASM isn’t just a coin. It’s a full-blown crypto climax. Born in the seediest corners of the meme world, $PGASM represents everything wrong, everything chaotic, and everything wildly erotic about Web3 culture.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Manifesto</h2>
+    <ul style="text-align:left;">
+      <li>We don’t build bridges — we explode them mid-orgasm.</li>
+      <li>We don’t fix Web3 — we meme it into submission.</li>
+      <li>We don’t promise utility — we deliver wet chaos.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Why $PGASM?</h2>
+    <ul style="text-align:left;">
+      <li>69 trillion tokens. Obviously.</li>
+      <li>Every transaction is a digital moan (in spirit).</li>
+      <li>Free CumDrops for the most unhinged degens.</li>
+      <li>NFT series: "Pepe in the Moment".</li>
+    </ul>
+  </div>
+
+  <footer>
+    <p>© 2025 PepeGASM. No rights reserved. Degeneracy encouraged.</p>
+  </footer>
+</body>
+</html>
